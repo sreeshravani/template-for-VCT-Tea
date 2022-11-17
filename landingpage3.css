@@ -1,0 +1,355 @@
+.landingpage3-container {
+  min-height: 100vh;
+}
+.landingpage3-landingpage3 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.landingpage3-register {
+  top: 357px;
+  left: 533px;
+  width: 876px;
+  height: 72.66727447509766px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(124, 114, 114, 1);
+}
+.landingpage3-frame12 {
+  top: -0.000003590303549572127px;
+  left: 566.1658935546875px;
+  width: 316px;
+  height: 72.66727447509766px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 10px;
+  background-color: rgba(255, 157, 43, 0.800000011920929);
+}
+.landingpage3-text {
+  top: 19px;
+  left: 50.8341064453125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28.74749183654785px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text02 {
+  top: 22px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-logo {
+  top: 573px;
+  left: 259px;
+  width: 135px;
+  height: 85px;
+  position: absolute;
+  border-color: transparent;
+}
+.landingpage3-description {
+  top: 679px;
+  left: 232px;
+  width: 466px;
+  height: 388px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.landingpage3-text04 {
+  top: 32px;
+  left: 27px;
+  color: rgba(251, 239, 239, 1);
+  width: 424px;
+  height: auto;
+  position: absolute;
+  font-size: 35.29244613647461px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text09 {
+  top: 66.17333984375px;
+  left: 124.78399658203125px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22.064241409301758px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text10 {
+  top: 135px;
+  left: 28px;
+  color: rgba(255, 255, 255, 1);
+  width: 358px;
+  height: auto;
+  position: absolute;
+  font-size: 20.797334671020508px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-f-a-c-e-b-o-o-k1 {
+  top: 332px;
+  left: 142px;
+  width: 27px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.landingpage3-i-n-s-t-a-g-r-a-m1 {
+  top: 332px;
+  left: 85px;
+  width: 29px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.landingpage3-t-w-i-t-t-e-r1 {
+  top: 332px;
+  left: 34px;
+  width: 23px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.landingpage3-y-o-u-t-u-b-e1 {
+  top: 332px;
+  left: 197px;
+  width: 34px;
+  height: 21px;
+  position: absolute;
+  border-color: transparent;
+}
+.landingpage3-contact {
+  top: 590px;
+  left: 749px;
+  width: 492px;
+  height: 412px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landingpage3-text25 {
+  top: 54px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text27 {
+  top: 134px;
+  left: 43px;
+  color: rgba(255, 255, 255, 1);
+  width: 449px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text28 {
+  font-weight: 700;
+}
+.landingpage3-text29 {
+  font-weight: 400;
+}
+.landingpage3-text37 {
+  font-weight: 700;
+}
+.landingpage3-text38 {
+  font-weight: 400;
+}
+.landingpage3-text46 {
+  font-weight: 700;
+}
+.landingpage3-timing {
+  top: 611px;
+  left: 1260px;
+  width: 470px;
+  height: 391px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landingpage3-text55 {
+  top: 25px;
+  left: 55px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Bahnschrift;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text57 {
+  top: 106px;
+  left: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 361px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-logo2 {
+  top: 582px;
+  left: 433px;
+  width: 178px;
+  height: 68px;
+  position: absolute;
+  border-color: transparent;
+}
+.landingpage3-herosection3 {
+  top: 51px;
+  left: 582px;
+  width: 791px;
+  height: 228px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.landingpage3-text70 {
+  top: 37px;
+  left: 42px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.landingpage3-text72 {
+  top: 128px;
+  left: 143px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Irish Grover;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
